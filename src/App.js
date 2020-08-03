@@ -10,6 +10,7 @@ class App extends Component {
     const data = await fetchData();
     console.log(data)
   }
+  
   render() {
     return (
       <div className={styles.container}> 
