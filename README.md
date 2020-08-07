@@ -1,5 +1,6 @@
 
 # COVID-19 Tracker
+![image](https://user-images.githubusercontent.com/52837649/89664421-29295700-d8a5-11ea-81a7-d6eb778e646b.png)
 
 ## Description
 Covid19-tracker is a data visualization tool that allows users to see the number of confirmed cases, recovered cases, and deaths of COVID-19 on a global scale or in each individual country based on user's selection.
